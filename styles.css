@@ -47,7 +47,7 @@ body {
 
 .bottom-cl {
   bottom: 300px;
-  left: 250px;
+  left: 200px;
   position: absolute;
 }
 
@@ -89,7 +89,7 @@ width: 3%;
 .rain-bottom{
   bottom: 60px;
   height: 250px;
-  left: 260px;
+  left: 210px;
   position: absolute;
   width: 180px;
 }
