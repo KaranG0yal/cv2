@@ -1,0 +1,154 @@
+a {
+  color: #11999E;
+  text-decoration: none;
+  padding: 30px;
+}
+.button {
+  background-color: #32b8c2;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  margin: 40px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button:hover {
+	background-color:#5cbf2a;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  margin: 10px 0 1px 0;
+  padding: 30px;
+  line-height: 2;
+  background-color: #66BFBF;
+
+}
+.bottom-p{
+  color: white;
+  font-size: 0.5em;
+}
+
+
+body {
+  background-color: aliceblue;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  margin: 0;
+  padding-top: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.bottom-cl {
+  bottom: 300px;
+  left: 250px;
+  position: absolute;
+}
+
+.desc {
+  font-weight: normal;
+}
+
+.h {
+  color: #66BFBF;
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 5.65rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+border: dotted;
+border-bottom: 0;
+border-width: 6px;
+color: #bac7a7;
+margin: 50px auto;
+width: 3%;
+}
+
+.my-image {
+  height: 25%;
+  width: 16%;
+}
+.rain-bottom{
+  bottom: 60px;
+  height: 250px;
+  left: 260px;
+  position: absolute;
+  width: 180px;
+}
+.rain-top{
+  height: 250px;
+  position: absolute;
+  right: 260px;
+  top: 150px;
+  width: 180px;
+}
+.skill-row{
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.skill-img{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.img2{
+  float: right;
+  margin-left: 30px;
+}
+.top-cl {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+/*.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left:200px;
+  top:200px;
+}
+.yellow{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position:absolute;
+}
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position:absolute;
+  top: 100px;
+  left:100px;
+}
+body{
+  margin:0;
+}
+*/
