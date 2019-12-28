@@ -46,8 +46,8 @@ body {
 }
 
 .bottom-cl {
-  bottom: 300px;
-  left: 180px;
+  bottom: 18.75em;
+  left: 11.25em;
   position: absolute;
 }
 
@@ -87,18 +87,18 @@ width: 3%;
   width: 16%;
 }
 .rain-bottom{
-  bottom: 60px;
-  height: 250px;
-  left: 190px;
+  bottom: 3.750em;
+  height: 15.625em;
+  left: 11.875em;
   position: absolute;
-  width: 180px;
+  width: 11.25em;
 }
 .rain-top{
-  height: 250px;
+  height: 15.625em;
   position: absolute;
-  right: 210px;
-  top: 150px;
-  width: 180px;
+  right: 13.125em;
+  top: 9.375em;
+  width: 11.25em;
 }
 .skill-row{
   line-height: 2;
@@ -117,8 +117,8 @@ width: 3%;
 }
 .top-cl {
   position: absolute;
-  right: 200px;
-  top: 50px;
+  right: 12.500em;
+  top: 3.125em;
 }
 
 .top-container {
